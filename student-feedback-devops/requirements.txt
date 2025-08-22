@@ -1,0 +1,4 @@
+Flask>=2.3,<4
+SQLAlchemy>=2.0,<3
+gunicorn>=21,<22
+pytest>=8,<9
