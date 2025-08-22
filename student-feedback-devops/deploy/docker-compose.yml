@@ -1,6 +1,6 @@
 services:
   web:
-    image: YOUR_DOCKERHUB_USERNAME/student-feedback-devops:latest
+    image: harihk27/student-feedback-devops:latest
     ports:
       - "80:8000"
     restart: unless-stopped

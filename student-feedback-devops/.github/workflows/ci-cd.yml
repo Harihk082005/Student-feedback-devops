@@ -7,7 +7,7 @@ on:
     branches: ["main"]
 
 env:
-  IMAGE_NAME: YOUR_DOCKERHUB_USERNAME/student-feedback-devops
+  IMAGE_NAME: harihk27/student-feedback-devops
 
 jobs:
   test:
